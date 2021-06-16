@@ -1,0 +1,3 @@
+com\singleton\mavenmysql\User.class
+com\singleton\mavenmysql\main.class
+com\singleton\mavenmysql\DatabaseConnection.class
